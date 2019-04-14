@@ -1,3 +1,2 @@
 export const FETCH_PRODUCT = 'FETCH_PRODUCT';
 export const EDIT_PRODUCT = 'EDIT_PRODUCT';
-export const SUBMIT_PRODUCT = 'SUBMIT_PRODUCT';
